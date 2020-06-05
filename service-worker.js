@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.defa8deb92533c26ea0afc96b24c3610.js"
+  "/precache-manifest.953133e18bcbbc5db9baa5ae0850668f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ar-shooter"});
